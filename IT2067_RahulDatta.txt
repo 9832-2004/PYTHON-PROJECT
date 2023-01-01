@@ -1,0 +1,14 @@
+Name of the student : Rahul Datta 
+Class Roll of the student : 67 
+Stream of the student : IT 
+Your Student ID is : IT2067
+
+Marks obtained in Math is : 89 
+Marks obtained in Python is : 76 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 77 
+Marks obtained in Biology is : null 
+Marks obtained in English is : 50 
+
+You have got 292 in total with 58%
+Good Performance... You have passed the exam with grade C.

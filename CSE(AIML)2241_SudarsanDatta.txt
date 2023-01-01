@@ -1,0 +1,14 @@
+Name of the student : Sudarsan Datta 
+Class Roll of the student : 41 
+Stream of the student : CSE(AIML) 
+Your Student ID is : CSE(AIML)2241
+
+Marks obtained in Math is : 70 
+Marks obtained in Python is : 80 
+Marks obtained in Physics is : 65 
+Marks obtained in Chemistry is : null 
+Marks obtained in Biology is : null 
+Marks obtained in English is : 90 
+
+You have got 305 in total with 305%
+Good Performance... You have passed the exam with grade C.
